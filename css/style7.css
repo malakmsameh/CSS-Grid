@@ -8,8 +8,7 @@
 .items
 {
 	display: grid;
-	grid-template-columns: max-content max-content max-content;
-	grid-template-rows: auto auto;
+	grid-template-columns: 1fr 1fr 1fr;
 	gap: 20px 100px;
 	justify-content: space-around;
 	border: 1px solid #718096;

@@ -3,7 +3,7 @@
 	display: grid;
 	grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
 	gap: 10px;
-	background: linear-gradient(135deg, #ff4b2b, #ff416c, #8a2be2);
+	background: linear-gradient(135deg, #f74e31, #fc2356, #8c25eb);
 	padding: 40px;
 	max-width: 1000px;
 	margin: 20px auto;
